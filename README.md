@@ -55,7 +55,7 @@ ___
 
   Your MySQL login information will then be passed to config/connection.js. This is necessary to sync the Sequelize models to the MySQL database on server start. This keeps your password hidden and can prevent hacking down the line.  This is good practice.
 
-5. **MySql:** Using MySQL shell command line, run the command **source db/schema.sql** to download the database to your remote workspace.
+5. **MySql:** Using MySQL shell command line, run the command **source db/schema.sql** to download the database to your remote workspace. Once it has been sourced, type quit.
 
 6. **Seeds:** Using the repository's integrated terminal, run the command **npm run seed** or **node seeds/index.js** to seed existing data to the database.
 
