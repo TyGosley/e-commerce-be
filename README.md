@@ -148,9 +148,8 @@ NOTE: Categories for products cannot be null! When running delete categories rou
 ## Demonstration
 
 ___
-Would you like to see E-commerce back-end in action?
 
-Watch this [demo](https://drive.google.com/file/d/1HWKFHYx9KH0BSvVkEBmNyZue4TyxY1Xr/view).
+Click [here](https://drive.google.com/file/d/1HWKFHYx9KH0BSvVkEBmNyZue4TyxY1Xr/view) to watch a demonstration of the E-Commerce Back End Application in use.
 
 ## Questions
 
